@@ -1,9 +1,9 @@
-# Android Clone Coding Project #28 Delivery
-
 ## ⚠️ 주의사항
 `gradle.properties` 파일에 `스마트 택배 API 키` 를 추가해야합니다.
 </br>
 
+
+# Android Clone Coding Project #28 Delivery
 택배 목록 불러오기
 </br>
 택배사 목록 불러오기
